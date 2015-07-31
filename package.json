@@ -1,0 +1,9 @@
+{
+  "name": "jsappbp",
+  "version": "1.0.0",
+  "description": "A generic (not specific to any framework) application boilerplate.",
+  "devDependencies": {
+    "gulp": "gulpjs/gulp#4.0",
+    "undertaker-registry": "0.0.3"
+  }
+}
